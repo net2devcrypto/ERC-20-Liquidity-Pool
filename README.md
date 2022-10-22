@@ -16,3 +16,6 @@ Click for video:
 
 Use the sample ERC20 Smart Contract Attached on this Github repo to practice along the video tutorial.
 
+<div class="row">
+<img src="https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS/blob/main/pics/bridge-01.PNG" width="700" height="600"/>
+</div>
