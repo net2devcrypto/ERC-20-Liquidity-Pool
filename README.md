@@ -17,5 +17,5 @@ Click for video:
 Use the sample ERC20 Smart Contract Attached on this Github repo to practice along the video tutorial.
 
 <div class="row">
-<img src="https://raw.githubusercontent.com/net2devcrypto/ERC-20-Liquidity-Pool/main/ERC20Sample-Tokenomics.png" width="700" height="600"/>
+<img src="https://raw.githubusercontent.com/net2devcrypto/ERC-20-Liquidity-Pool/main/ERC20Sample-Tokenomics.png" width="900" height="600"/>
 </div>
